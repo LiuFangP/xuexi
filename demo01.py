@@ -64,3 +64,7 @@
 a = input("请输入：")
 b = input("请输入：")
 print("两段字符串的长度是：",len(a)+len(b))
+
+a = int(input("请输入："))
+b = float(input("请输入："))
+print("input获取的内容：",a+b)
